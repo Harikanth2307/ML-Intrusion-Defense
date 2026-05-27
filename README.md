@@ -1,4 +1,4 @@
-# 🛡️ Cowrie ML Firewall
+# 🛡️ ML-Intrusion-Defense (Cowrie ML Firewall)
 
 > **Honeypot-based Intrusion Detection & Automated Firewall Response System for MikroTik Networks**
 
